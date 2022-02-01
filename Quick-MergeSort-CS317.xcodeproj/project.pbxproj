@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7077C59E27A9B7630072429E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7077C59D27A9B7630072429E /* main.cpp */; };
+		7077C59E27A9B7630072429E /* Quick-MergeSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7077C59D27A9B7630072429E /* Quick-MergeSort.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		7077C59A27A9B7630072429E /* Quick-MergeSort-CS317 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Quick-MergeSort-CS317"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7077C59D27A9B7630072429E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7077C59D27A9B7630072429E /* Quick-MergeSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Quick-MergeSort.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		7077C59C27A9B7630072429E /* Quick-MergeSort-CS317 */ = {
 			isa = PBXGroup;
 			children = (
-				7077C59D27A9B7630072429E /* main.cpp */,
+				7077C59D27A9B7630072429E /* Quick-MergeSort.cpp */,
 			);
 			path = "Quick-MergeSort-CS317";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7077C59E27A9B7630072429E /* main.cpp in Sources */,
+				7077C59E27A9B7630072429E /* Quick-MergeSort.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
